@@ -31,8 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Panacea.Multilinguality, Version=0.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Panacea.Multilinguality.0.1.1\lib\net462\Panacea.Multilinguality.dll</HintPath>
+    <Reference Include="Panacea.Multilinguality, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Panacea.Multilinguality.1.0.0\lib\net462\Panacea.Multilinguality.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
